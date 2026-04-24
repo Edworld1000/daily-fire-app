@@ -1,0 +1,78 @@
+{
+  "name": "Daily Fire",
+  "short_name": "Daily Fire",
+  "description": "Motivational quotes for athletes and high performers. Morning, noon, and night reminders to stay disciplined.",
+  "start_url": "/daily-fire-app/",
+  "display": "standalone",
+  "background_color": "#141210",
+  "theme_color": "#e8784a",
+  "orientation": "portrait",
+  "scope": "/daily-fire-app/",
+  "lang": "en",
+  "categories": ["lifestyle", "health", "sports"],
+  "icons": [
+    {
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "New Quote",
+      "short_name": "Quote",
+      "description": "Get a new motivational quote",
+      "url": "/daily-fire-app/#home"
+    },
+    {
+      "name": "Saved Quotes",
+      "short_name": "Saved",
+      "description": "View your saved quotes",
+      "url": "/daily-fire-app/#favorites"
+    }
+  ]
+}
